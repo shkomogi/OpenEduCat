@@ -1,0 +1,2 @@
+# OpenEduCat
+Odoo application
